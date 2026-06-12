@@ -30,3 +30,9 @@ let f = 5
 console.log(e> 5 && f < 10)
 console.log(e > 5 || f < 10)
 console.log(!(e >5 && f < 10))
+console.log("Unary operator")
+var g=50
+console.log(c++)
+console.log(c--)
+console.log(++c)
+console.log(--c)
