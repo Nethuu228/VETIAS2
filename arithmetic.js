@@ -24,3 +24,20 @@ console.log(a>b)
 console.log(a<b)
 console.log(a>=b)
 console.log(a<=b)
+console.log("Logical Operator")
+let e = 10
+let f = 5
+console.log(e> 5 && f < 10)
+console.log(e > 5 || f < 10)
+console.log(!(e >5 && f < 10))
+console.log("Unary operator")
+var g=50
+console.log(c++)
+console.log(c--)
+console.log(++c)
+console.log(--c)
+console.log("Ternary Operator")
+var m=22;
+var n=28;
+var result=(m>n) ? "m is greater" : " n is greater";
+console.log(result)
