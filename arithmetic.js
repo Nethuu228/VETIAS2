@@ -41,9 +41,3 @@ var m=22;
 var n=28;
 var result=(m>n) ? "m is greater" : " n is greater";
 console.log(result)
-var person={age:30}
-console.log(person.age)
-//array
-var numbers =[1,2,3,4,5]
-console.log(numbers.length)
-console.log(numbers[4])
