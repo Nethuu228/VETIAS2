@@ -24,3 +24,9 @@ console.log(a>b)
 console.log(a<b)
 console.log(a>=b)
 console.log(a<=b)
+console.log("Logical Operator")
+let e = 10
+let f = 5
+console.log(e> 5 && f < 10)
+console.log(e > 5 || f < 10)
+console.log(!(e >5 && f < 10))
