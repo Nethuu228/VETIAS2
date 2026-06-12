@@ -36,3 +36,8 @@ console.log(c++)
 console.log(c--)
 console.log(++c)
 console.log(--c)
+console.log("Ternary Operator")
+var m=22;
+var n=28;
+var result=(m>n) ? "m is greater" : " n is greater";
+console.log(result)
